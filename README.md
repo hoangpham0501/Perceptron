@@ -9,7 +9,7 @@ The five main steps that are involved in training a machine learning algorithm c
 ## First steps with scikit-learn
 Related learning algorithms for classification: the **perceptron** rule and **Adaline**.
 The scikit-learn library offers not only a large variety of learning algorithms, but also many convenient functions to preprocess data and to fine-tune and evaluate our models.
-##Training a perceptron via scikit-learn (using Iris dataset)
+## Training a perceptron via scikit-learn (using Iris dataset)
 **Note:** The perceptron algorithm never converges on datasets that aren't perfectly linearly separable, which is why the use of the perceptron algorithm is typically not recommended in practice.
 
 #### Soucre: Python Maching Learning
